@@ -1,0 +1,2 @@
+# Amazon_Rekognition_Recognizing_Celebrities
+Used Amazon Rekognition to identify celebrities
